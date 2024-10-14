@@ -1,28 +1,39 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![Md-Ij Banner-2](https://camo.githubusercontent.com/2a50a7d7ae5024f74fad6ea1cab81c197e975e028147bb9a3d3441296f05af88/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067)
+
 <h1 align="center">Hi 👋, I'm Aditya Shinde</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-shinde-1204&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-shinde-1204" /> </p>
 
-- 🔭 I’m currently working on **Animated Website**
+- 🔭 I’m currently working on **Animated Website.**
 
-- 🌱 I’m currently learning **JavaScript and its Frameworks**
+- 🌱 I’m currently learning **JavaScript and its Frameworks.**
+
+- ✍️ &nbsp;In my free time, **I Am Watching Web series and Playing Video Games.**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **as3178083@gmail.com**
 
+
+
+<h3 align="left">🛠 Tech Stack :</h3>
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-shinde-1204&show_icons=true&locale=en&layout=compact" alt="aditya-shinde-1204" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-shinde-1204&show_icons=true&locale=en" alt="aditya-shinde-1204" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityas81909980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityas81909980" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-shinde-844362229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-shinde-844362229" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_adityashinde____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_adityashinde____/" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-shinde-1204&show_icons=true&locale=en&layout=compact" alt="aditya-shinde-1204" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-shinde-1204&show_icons=true&locale=en" alt="aditya-shinde-1204" /></p>
