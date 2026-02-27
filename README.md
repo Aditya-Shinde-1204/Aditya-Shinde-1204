@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hospital Management System Project.**
 
-<a target="_blank" href="https://lakshmandev.netlify.app/"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
+<a target="_blank" href=""><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
 
 
 - 🌱 I’m currently learning **Spring and its Frameworks.**
