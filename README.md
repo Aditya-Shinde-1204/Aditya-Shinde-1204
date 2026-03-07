@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-shinde-1204&show_icons=true&locale=en&layout=compact" alt="aditya-shinde-1204" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiGit-12&show_icons=true&locale=en&layout=compact" alt="AdiGit_12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-shinde-1204&show_icons=true&locale=en" alt="aditya-shinde-1204" /></p>
 <h3 align="left">Connect with me:</h3>
