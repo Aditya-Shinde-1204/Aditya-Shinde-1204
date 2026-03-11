@@ -70,16 +70,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-shinde-1204&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiGit-12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-shinde-1204&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdiGit-12&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<!-- Optional: Add a streak stats for more visual appeal -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-shinde-1204" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiGit-12" alt="GitHub Streak" />
 </p>
 
 ### 📫 Connect with me
